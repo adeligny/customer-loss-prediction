@@ -1,0 +1,401 @@
+Client,Nombre_de_sinistres,Prime,Régime_alimentaire,Genre,Région_d_habitation,Fumeur,Enfants,Alcool,Salaire,Âge,Marque_de_véhicule,Type_de_carburant,Ancienneté_du_permis,Prix_du_véhicule,Type_de_route_majoritaire,Musique_calme_ou_excitante,Conduite_de_nuit,Utilisation_téléphone,Profession,Modèle_de_véhicule,Kilométrage_annuel,Genre_de_musique_préféré,Animal_de_compagnie,Utilisation_GPS,Jeux_video_courses,Pratique_relaxation,Habitudes_de_lecture
+Client_1,5,595,Pescetarien,Femme,Auvergne-Rhône-Alpes,True,False,False,47789,23,Peugeot,Électrique,29,27006,Urbain,Excitante,True,False,Commercial,Golf,15380,Hip-hop,False,False,False,True,Fantaisie
+Client_2,4,799,Omnivore,Femme,Île-de-France,True,False,True,76281,32,Toyota,Diesel,49,5289,Rural,Calme,False,False,Professeur,308,7177,Rock,False,True,True,True,Historique
+Client_3,1,706,Végétarien,Femme,Île-de-France,False,True,True,86853,36,Volkswagen,Hybride,34,30361,Urbain,Excitante,True,False,Ingénieur,Yaris,25121,Classique,True,False,False,False,Fantaisie
+Client_4,1,625,Flexitarien,Homme,Île-de-France,False,False,False,76447,30,Renault,Essence,41,8414,Autoroute,Excitante,True,False,Commercial,Yaris,28896,Pop,True,False,True,False,Thriller
+Client_5,0,322,Flexitarien,Non-binaire,Occitanie,True,True,True,35444,44,BMW,Diesel,50,45631,Autoroute,Calme,False,False,Professeur,Yaris,10141,Rock,False,False,False,False,Historique
+Client_6,2,340,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,96772,25,Peugeot,Diesel,37,16120,Rural,Excitante,True,False,Médecin,308,28193,Rock,True,False,False,True,Thriller
+Client_7,1,676,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,True,True,False,85751,35,Toyota,Électrique,50,34469,Rural,Calme,False,True,Ingénieur,308,23168,Rock,False,False,False,True,Roman
+Client_8,3,844,Flexitarien,Femme,Occitanie,True,False,False,47728,45,Renault,Diesel,49,25106,Rural,Excitante,True,True,Professeur,308,29700,Pop,False,False,False,False,Fantaisie
+Client_9,1,666,Végétalien,Non-binaire,Nouvelle-Aquitaine,False,False,True,92493,51,Volkswagen,Hybride,17,45182,Urbain,Calme,False,True,Professeur,Clio,18820,Jazz,False,False,True,True,Roman
+Client_10,1,884,Flexitarien,Non-binaire,Auvergne-Rhône-Alpes,False,False,True,93631,28,Peugeot,Hybride,5,39699,Autoroute,Calme,False,False,Ingénieur,308,7174,Classique,True,False,False,True,Thriller
+Client_11,4,687,Végétalien,Femme,Auvergne-Rhône-Alpes,False,True,False,95719,36,BMW,Diesel,8,34718,Autoroute,Excitante,False,False,Artisan,Yaris,17320,Rock,True,True,True,False,Fantaisie
+Client_12,0,848,Flexitarien,Non-binaire,Nouvelle-Aquitaine,True,True,False,76547,22,Renault,Électrique,1,13836,Autoroute,Calme,True,True,Professeur,Clio,28469,Pop,True,True,False,True,Thriller
+Client_13,2,385,Pescetarien,Femme,Nouvelle-Aquitaine,False,True,True,76978,21,BMW,Essence,48,31200,Rural,Excitante,False,False,Médecin,Yaris,8480,Rock,True,True,False,True,Thriller
+Client_14,3,356,Omnivore,Femme,Provence-Alpes-Côte d'Azur,True,True,False,74797,30,BMW,Essence,25,32329,Urbain,Excitante,False,True,Ingénieur,Yaris,7702,Rock,True,True,False,True,Roman
+Client_15,2,792,Flexitarien,Non-binaire,Île-de-France,False,True,True,64165,24,Volkswagen,Électrique,43,16812,Urbain,Calme,True,False,Ingénieur,Golf,7879,Classique,False,True,True,False,Historique
+Client_16,1,680,Végétarien,Non-binaire,Nouvelle-Aquitaine,False,True,True,72191,34,Toyota,Diesel,5,49302,Autoroute,Excitante,False,True,Commercial,Série 3,23721,Hip-hop,False,True,True,True,Science-fiction
+Client_17,3,448,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,False,True,False,77239,20,Volkswagen,Électrique,8,7055,Autoroute,Calme,True,False,Professeur,308,5616,Hip-hop,True,True,False,True,Roman
+Client_18,0,452,Végétalien,Homme,Nouvelle-Aquitaine,True,False,True,24775,34,Peugeot,Essence,20,5279,Rural,Calme,False,True,Artisan,Yaris,15548,Jazz,False,False,False,True,Roman
+Client_19,4,733,Pescetarien,Femme,Île-de-France,False,True,False,27979,64,Volkswagen,Électrique,18,44984,Rural,Calme,False,False,Commercial,Série 3,21747,Classique,False,True,True,False,Thriller
+Client_20,3,727,Végétarien,Homme,Occitanie,False,True,False,30951,65,Volkswagen,Hybride,1,10005,Autoroute,Calme,False,False,Professeur,308,20137,Classique,False,True,True,True,Historique
+Client_21,1,648,Omnivore,Non-binaire,Île-de-France,False,True,False,33735,66,Volkswagen,Diesel,11,41916,Urbain,Calme,False,True,Professeur,308,20901,Jazz,True,True,True,True,Thriller
+Client_22,5,497,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,False,44283,62,Peugeot,Essence,12,10089,Rural,Excitante,False,True,Commercial,Yaris,7960,Hip-hop,True,False,True,False,Roman
+Client_23,1,659,Omnivore,Femme,Île-de-France,False,False,True,82388,40,BMW,Essence,27,12655,Urbain,Excitante,True,False,Artisan,Yaris,16656,Hip-hop,False,True,True,False,Historique
+Client_24,5,542,Flexitarien,Homme,Nouvelle-Aquitaine,True,True,True,60990,60,Peugeot,Essence,27,8500,Autoroute,Calme,False,False,Médecin,Série 3,10947,Classique,True,True,False,False,Science-fiction
+Client_25,0,353,Pescetarien,Homme,Nouvelle-Aquitaine,False,True,False,32804,61,Toyota,Essence,41,18863,Autoroute,Excitante,True,True,Professeur,Golf,26719,Jazz,True,True,True,False,Roman
+Client_26,1,420,Flexitarien,Homme,Provence-Alpes-Côte d'Azur,False,True,False,47135,18,Volkswagen,Essence,13,14241,Autoroute,Excitante,False,False,Professeur,Yaris,5907,Rock,True,False,True,False,Fantaisie
+Client_27,0,896,Omnivore,Non-binaire,Occitanie,False,True,False,35540,69,Toyota,Diesel,37,22654,Rural,Calme,False,True,Artisan,Golf,16847,Hip-hop,False,False,False,False,Roman
+Client_28,2,734,Végétarien,Homme,Île-de-France,False,False,False,95314,26,Renault,Essence,30,8908,Urbain,Excitante,False,True,Artisan,Golf,23941,Classique,True,True,True,True,Thriller
+Client_29,3,963,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,True,48362,40,Peugeot,Hybride,28,26391,Autoroute,Excitante,True,True,Professeur,Série 3,16055,Jazz,True,False,True,False,Thriller
+Client_30,0,859,Pescetarien,Non-binaire,Île-de-France,False,False,True,63566,35,Toyota,Essence,20,48885,Autoroute,Excitante,True,False,Professeur,Série 3,14801,Classique,True,False,True,True,Science-fiction
+Client_31,5,592,Pescetarien,Homme,Nouvelle-Aquitaine,True,False,True,89551,47,Renault,Hybride,36,40937,Urbain,Excitante,False,False,Commercial,Golf,10412,Pop,False,True,True,False,Roman
+Client_32,3,958,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,True,False,54159,60,Renault,Diesel,28,33813,Autoroute,Excitante,False,True,Commercial,Clio,10263,Hip-hop,False,True,True,False,Roman
+Client_33,3,994,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,False,False,24136,29,Peugeot,Électrique,2,18903,Autoroute,Calme,True,True,Médecin,Clio,17673,Hip-hop,True,False,True,False,Science-fiction
+Client_34,1,892,Végétalien,Homme,Provence-Alpes-Côte d'Azur,True,False,False,82894,61,Volkswagen,Diesel,14,15532,Rural,Calme,True,True,Professeur,Golf,13016,Pop,False,True,False,False,Science-fiction
+Client_35,4,315,Végétarien,Non-binaire,Île-de-France,False,False,False,39015,19,Renault,Électrique,35,26997,Autoroute,Calme,False,True,Commercial,Série 3,15423,Jazz,False,False,False,False,Fantaisie
+Client_36,4,572,Végétalien,Homme,Auvergne-Rhône-Alpes,False,False,False,60778,41,Toyota,Diesel,49,37829,Urbain,Excitante,False,True,Artisan,308,6240,Pop,False,False,True,True,Fantaisie
+Client_37,0,401,Pescetarien,Femme,Île-de-France,True,False,False,70227,59,Volkswagen,Diesel,10,16604,Urbain,Excitante,True,True,Médecin,Yaris,28785,Classique,True,False,False,False,Roman
+Client_38,5,963,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,True,False,False,46411,51,Volkswagen,Essence,30,32870,Rural,Calme,True,False,Médecin,Clio,22578,Rock,False,True,True,True,Fantaisie
+Client_39,5,850,Omnivore,Homme,Auvergne-Rhône-Alpes,False,True,True,40219,62,Renault,Essence,17,5548,Autoroute,Excitante,True,True,Professeur,308,25104,Jazz,False,False,True,False,Science-fiction
+Client_40,0,985,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,51149,54,BMW,Électrique,15,12234,Urbain,Excitante,False,True,Professeur,Golf,21009,Classique,False,True,False,False,Roman
+Client_41,4,437,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,True,42644,25,BMW,Essence,16,7485,Rural,Excitante,True,False,Ingénieur,Clio,27266,Hip-hop,False,False,False,False,Thriller
+Client_42,5,580,Pescetarien,Homme,Provence-Alpes-Côte d'Azur,True,False,True,88517,56,BMW,Essence,23,23577,Rural,Excitante,False,False,Professeur,308,13889,Rock,False,False,True,True,Thriller
+Client_43,5,923,Omnivore,Homme,Nouvelle-Aquitaine,False,False,False,58089,18,Renault,Diesel,6,14391,Urbain,Calme,True,False,Commercial,Yaris,23327,Pop,True,False,True,False,Thriller
+Client_44,0,697,Végétalien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,True,23522,29,Toyota,Hybride,4,14892,Urbain,Calme,False,False,Professeur,308,6723,Rock,True,True,False,True,Roman
+Client_45,1,557,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,True,40842,31,Volkswagen,Électrique,10,5979,Autoroute,Excitante,False,False,Médecin,Série 3,16736,Jazz,True,False,True,True,Roman
+Client_46,4,694,Flexitarien,Non-binaire,Île-de-France,False,False,False,98460,54,Volkswagen,Hybride,40,19482,Rural,Excitante,True,True,Professeur,Golf,21277,Hip-hop,True,True,False,True,Thriller
+Client_47,4,347,Végétalien,Femme,Nouvelle-Aquitaine,False,False,False,31062,23,BMW,Électrique,27,39854,Autoroute,Excitante,True,True,Artisan,Golf,21459,Hip-hop,False,True,True,True,Thriller
+Client_48,1,378,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,False,92319,48,BMW,Essence,42,12508,Urbain,Excitante,True,True,Professeur,Clio,27966,Jazz,False,True,True,True,Historique
+Client_49,4,429,Flexitarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,True,65668,47,BMW,Diesel,44,11314,Rural,Excitante,True,False,Ingénieur,Golf,28347,Jazz,True,False,True,False,Historique
+Client_50,2,312,Pescetarien,Non-binaire,Occitanie,True,True,True,67827,32,Renault,Électrique,2,22657,Urbain,Excitante,True,False,Ingénieur,Clio,19693,Hip-hop,False,True,True,True,Roman
+Client_51,3,302,Flexitarien,Homme,Auvergne-Rhône-Alpes,True,False,False,31115,20,Peugeot,Hybride,25,34135,Rural,Excitante,False,True,Commercial,Yaris,16444,Pop,False,True,False,True,Roman
+Client_52,1,987,Omnivore,Femme,Provence-Alpes-Côte d'Azur,True,True,False,99226,28,Toyota,Essence,34,29402,Autoroute,Calme,False,False,Professeur,Série 3,28692,Hip-hop,True,False,True,True,Fantaisie
+Client_53,4,622,Pescetarien,Homme,Nouvelle-Aquitaine,False,False,True,69858,20,BMW,Électrique,17,46242,Rural,Calme,True,True,Professeur,Golf,16508,Jazz,True,True,True,False,Thriller
+Client_54,2,333,Végétarien,Homme,Auvergne-Rhône-Alpes,False,False,True,92771,44,Volkswagen,Hybride,26,29207,Urbain,Excitante,True,True,Professeur,308,9421,Jazz,False,True,False,True,Thriller
+Client_55,5,496,Végétalien,Homme,Provence-Alpes-Côte d'Azur,False,True,True,52244,69,BMW,Essence,13,23584,Rural,Excitante,True,False,Artisan,Golf,10121,Pop,False,True,False,False,Fantaisie
+Client_56,4,589,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,False,32690,53,BMW,Diesel,19,6668,Rural,Calme,True,False,Professeur,Série 3,28611,Hip-hop,True,True,False,True,Fantaisie
+Client_57,2,836,Omnivore,Non-binaire,Nouvelle-Aquitaine,True,True,False,68287,66,Peugeot,Essence,14,15031,Autoroute,Excitante,False,True,Médecin,Golf,28994,Hip-hop,True,False,True,True,Thriller
+Client_58,3,624,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,90145,27,Renault,Hybride,20,20230,Autoroute,Excitante,True,True,Ingénieur,Série 3,25071,Jazz,False,True,False,False,Thriller
+Client_59,2,864,Omnivore,Non-binaire,Auvergne-Rhône-Alpes,True,False,False,90178,62,BMW,Hybride,45,26900,Rural,Excitante,True,False,Médecin,Série 3,13381,Rock,True,False,False,True,Historique
+Client_60,1,476,Flexitarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,False,77472,70,BMW,Électrique,9,5353,Autoroute,Excitante,True,True,Professeur,308,16235,Classique,True,False,True,True,Fantaisie
+Client_61,5,753,Pescetarien,Femme,Occitanie,True,True,False,60426,27,Peugeot,Électrique,6,8507,Autoroute,Excitante,False,True,Commercial,Yaris,25373,Pop,True,True,False,False,Fantaisie
+Client_62,0,919,Végétalien,Homme,Occitanie,False,True,True,60102,51,Volkswagen,Électrique,37,18129,Autoroute,Calme,True,False,Artisan,308,20725,Rock,False,False,True,True,Fantaisie
+Client_63,0,498,Végétarien,Homme,Nouvelle-Aquitaine,False,True,True,49806,41,Renault,Diesel,11,18574,Urbain,Excitante,True,True,Médecin,Série 3,5518,Rock,False,True,False,True,Fantaisie
+Client_64,2,754,Pescetarien,Non-binaire,Occitanie,True,True,False,73019,70,Toyota,Électrique,41,13566,Rural,Excitante,False,True,Ingénieur,308,9004,Classique,False,False,False,True,Historique
+Client_65,2,413,Omnivore,Femme,Occitanie,True,False,True,55809,65,BMW,Électrique,16,8044,Urbain,Excitante,False,False,Professeur,Yaris,27601,Hip-hop,True,True,True,True,Fantaisie
+Client_66,2,546,Flexitarien,Non-binaire,Île-de-France,True,True,True,46440,60,Peugeot,Essence,13,48267,Autoroute,Excitante,False,False,Artisan,Golf,24376,Classique,True,False,False,False,Science-fiction
+Client_67,3,619,Flexitarien,Homme,Nouvelle-Aquitaine,True,True,False,28499,65,Peugeot,Essence,26,27352,Rural,Calme,True,False,Ingénieur,Clio,18318,Jazz,True,False,False,False,Thriller
+Client_68,2,330,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,True,84986,21,Volkswagen,Diesel,9,49593,Urbain,Calme,False,False,Ingénieur,Golf,7178,Jazz,True,True,False,True,Fantaisie
+Client_69,1,919,Flexitarien,Homme,Île-de-France,False,True,False,29385,63,Volkswagen,Essence,1,40255,Autoroute,Calme,False,False,Commercial,Golf,14478,Pop,True,False,False,True,Thriller
+Client_70,5,794,Végétarien,Homme,Provence-Alpes-Côte d'Azur,True,False,True,39337,58,Peugeot,Essence,33,20539,Autoroute,Excitante,True,True,Ingénieur,308,13255,Hip-hop,False,False,True,False,Historique
+Client_71,5,321,Végétarien,Homme,Île-de-France,True,False,False,63647,66,BMW,Hybride,26,8369,Autoroute,Calme,True,False,Commercial,Golf,14643,Jazz,True,True,False,False,Historique
+Client_72,1,534,Végétarien,Femme,Île-de-France,False,False,False,54906,30,Volkswagen,Essence,14,36052,Urbain,Calme,False,True,Ingénieur,Clio,14317,Pop,True,False,True,True,Science-fiction
+Client_73,1,758,Flexitarien,Non-binaire,Nouvelle-Aquitaine,True,True,False,30182,29,BMW,Essence,16,29830,Autoroute,Excitante,True,True,Ingénieur,Série 3,23420,Jazz,True,True,True,False,Historique
+Client_74,0,918,Flexitarien,Non-binaire,Île-de-France,True,True,True,49179,40,BMW,Essence,3,15066,Urbain,Calme,True,False,Artisan,Yaris,17790,Classique,False,True,False,True,Fantaisie
+Client_75,2,563,Pescetarien,Non-binaire,Nouvelle-Aquitaine,True,True,True,81381,24,Volkswagen,Hybride,4,43294,Rural,Excitante,True,False,Médecin,308,5987,Classique,False,False,True,False,Roman
+Client_76,4,928,Végétalien,Homme,Nouvelle-Aquitaine,False,True,False,89492,47,Volkswagen,Hybride,36,7668,Urbain,Calme,True,True,Commercial,308,19107,Pop,False,False,True,False,Fantaisie
+Client_77,0,310,Végétarien,Femme,Auvergne-Rhône-Alpes,True,True,False,54329,27,BMW,Électrique,3,40378,Urbain,Excitante,True,True,Médecin,Clio,13429,Pop,False,True,True,True,Historique
+Client_78,0,751,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,False,48342,70,Renault,Hybride,28,29504,Rural,Excitante,False,False,Ingénieur,Golf,23194,Pop,False,False,False,False,Historique
+Client_79,4,986,Omnivore,Non-binaire,Île-de-France,False,False,False,68039,21,Volkswagen,Électrique,38,18873,Autoroute,Excitante,True,False,Artisan,Clio,10591,Rock,True,True,False,True,Historique
+Client_80,0,743,Flexitarien,Homme,Nouvelle-Aquitaine,False,True,False,38864,26,BMW,Hybride,36,41896,Autoroute,Calme,True,False,Artisan,Yaris,5582,Pop,True,False,False,True,Historique
+Client_81,1,856,Pescetarien,Femme,Auvergne-Rhône-Alpes,False,False,True,51989,25,BMW,Hybride,16,46413,Rural,Excitante,False,True,Artisan,Yaris,20587,Hip-hop,True,True,True,True,Science-fiction
+Client_82,1,890,Végétalien,Non-binaire,Île-de-France,True,False,False,68198,54,BMW,Essence,12,37338,Rural,Calme,True,False,Médecin,Série 3,7763,Pop,False,True,False,False,Thriller
+Client_83,4,805,Pescetarien,Homme,Occitanie,True,False,True,47055,30,Volkswagen,Essence,33,11496,Autoroute,Calme,False,False,Artisan,Série 3,13379,Hip-hop,False,False,True,False,Fantaisie
+Client_84,1,762,Végétalien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,71151,39,Toyota,Essence,2,39729,Rural,Calme,False,False,Commercial,Clio,9152,Hip-hop,False,True,True,False,Science-fiction
+Client_85,2,309,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,False,True,True,90135,41,BMW,Essence,15,48331,Autoroute,Calme,False,True,Ingénieur,Golf,6633,Classique,False,True,False,False,Roman
+Client_86,5,874,Flexitarien,Femme,Nouvelle-Aquitaine,False,False,False,74656,59,Peugeot,Essence,16,23974,Urbain,Calme,True,True,Artisan,Golf,20396,Classique,False,True,False,False,Thriller
+Client_87,2,335,Végétalien,Non-binaire,Île-de-France,False,True,True,93553,25,Peugeot,Essence,13,41117,Urbain,Excitante,True,False,Commercial,Golf,9350,Pop,False,True,True,True,Roman
+Client_88,4,438,Flexitarien,Non-binaire,Nouvelle-Aquitaine,True,False,False,60942,42,BMW,Diesel,44,29718,Autoroute,Calme,False,True,Ingénieur,Série 3,11347,Pop,False,True,False,False,Thriller
+Client_89,1,939,Végétalien,Non-binaire,Île-de-France,True,True,True,77166,56,Toyota,Essence,38,21042,Autoroute,Excitante,False,False,Professeur,Golf,9744,Jazz,False,False,True,True,Science-fiction
+Client_90,0,625,Omnivore,Femme,Nouvelle-Aquitaine,True,True,True,74988,19,Renault,Hybride,43,24933,Urbain,Excitante,True,True,Médecin,Golf,26479,Pop,True,False,True,True,Fantaisie
+Client_91,3,779,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,26158,36,Toyota,Électrique,28,31993,Urbain,Excitante,True,False,Médecin,Yaris,7788,Classique,False,False,False,False,Science-fiction
+Client_92,3,765,Végétarien,Femme,Île-de-France,True,True,True,85897,64,Volkswagen,Hybride,37,24003,Rural,Calme,False,True,Ingénieur,Série 3,22732,Pop,False,False,False,True,Thriller
+Client_93,0,947,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,False,93033,26,Peugeot,Diesel,30,30851,Autoroute,Excitante,False,False,Médecin,308,19449,Jazz,True,False,False,True,Thriller
+Client_94,1,496,Omnivore,Homme,Provence-Alpes-Côte d'Azur,False,False,True,36725,56,Renault,Diesel,16,29842,Urbain,Calme,True,True,Ingénieur,Golf,12586,Rock,True,False,True,False,Thriller
+Client_95,3,919,Végétalien,Non-binaire,Occitanie,True,True,False,47087,66,Peugeot,Électrique,19,16690,Autoroute,Excitante,False,False,Médecin,Clio,18902,Hip-hop,False,True,False,True,Science-fiction
+Client_96,3,334,Végétarien,Femme,Île-de-France,False,True,True,55140,43,Peugeot,Hybride,46,26398,Autoroute,Excitante,True,False,Professeur,Clio,11772,Rock,False,False,False,True,Roman
+Client_97,5,547,Végétalien,Femme,Île-de-France,True,False,False,87526,62,Toyota,Hybride,29,48064,Rural,Excitante,False,False,Artisan,Clio,16024,Pop,False,True,True,True,Roman
+Client_98,0,537,Végétarien,Femme,Provence-Alpes-Côte d'Azur,True,True,False,85719,42,Volkswagen,Essence,38,45534,Urbain,Calme,False,False,Ingénieur,Clio,28613,Classique,False,False,False,False,Fantaisie
+Client_99,0,342,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,True,True,True,68574,52,Toyota,Électrique,40,9207,Autoroute,Excitante,True,False,Médecin,Golf,12675,Hip-hop,True,False,True,True,Science-fiction
+Client_100,4,694,Omnivore,Non-binaire,Île-de-France,False,True,True,79833,38,BMW,Électrique,6,34446,Autoroute,Excitante,False,False,Artisan,308,26021,Hip-hop,False,True,False,False,Historique
+Client_101,3,429,Pescetarien,Homme,Nouvelle-Aquitaine,False,True,True,62899,24,Renault,Essence,28,29091,Urbain,Calme,False,False,Professeur,308,22080,Jazz,True,True,True,True,Fantaisie
+Client_102,0,544,Pescetarien,Homme,Auvergne-Rhône-Alpes,True,True,True,41214,24,BMW,Électrique,7,36844,Autoroute,Calme,False,True,Ingénieur,308,15620,Jazz,False,False,True,False,Historique
+Client_103,2,794,Végétarien,Homme,Auvergne-Rhône-Alpes,True,False,True,53194,67,Peugeot,Diesel,48,28703,Rural,Calme,True,False,Artisan,308,6311,Pop,True,False,False,False,Thriller
+Client_104,2,679,Pescetarien,Non-binaire,Île-de-France,False,True,False,81763,44,Peugeot,Hybride,14,8875,Rural,Calme,False,False,Ingénieur,Série 3,7841,Rock,False,False,False,False,Historique
+Client_105,4,947,Flexitarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,False,77957,62,Peugeot,Essence,41,29469,Rural,Calme,False,False,Professeur,308,12475,Classique,True,False,False,True,Roman
+Client_106,0,429,Flexitarien,Non-binaire,Nouvelle-Aquitaine,True,True,True,92238,56,Volkswagen,Diesel,29,29237,Autoroute,Calme,True,False,Ingénieur,Golf,28300,Hip-hop,True,False,False,False,Thriller
+Client_107,2,312,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,85122,52,Peugeot,Hybride,25,36520,Rural,Calme,True,False,Médecin,Yaris,7304,Pop,True,True,False,True,Science-fiction
+Client_108,5,635,Végétarien,Femme,Occitanie,True,False,False,51478,54,Toyota,Hybride,20,27187,Rural,Excitante,False,False,Médecin,Clio,8555,Jazz,True,True,False,True,Thriller
+Client_109,5,979,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,False,False,74582,28,Volkswagen,Hybride,43,31509,Autoroute,Excitante,True,False,Artisan,Golf,19374,Classique,True,True,True,True,Roman
+Client_110,0,377,Végétalien,Femme,Auvergne-Rhône-Alpes,False,True,True,99628,44,BMW,Diesel,9,32381,Rural,Excitante,True,True,Artisan,Série 3,17937,Jazz,True,False,True,True,Science-fiction
+Client_111,4,477,Pescetarien,Homme,Île-de-France,True,True,False,71132,50,BMW,Hybride,11,5146,Rural,Excitante,False,True,Professeur,Yaris,13073,Jazz,False,True,False,True,Science-fiction
+Client_112,3,799,Végétalien,Homme,Nouvelle-Aquitaine,True,True,False,71142,50,Peugeot,Hybride,1,28856,Rural,Excitante,True,True,Artisan,308,7003,Rock,True,False,True,False,Science-fiction
+Client_113,2,796,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,24431,59,Toyota,Diesel,50,7682,Autoroute,Excitante,False,False,Artisan,308,6203,Classique,False,True,True,True,Roman
+Client_114,5,735,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,True,True,False,83333,58,BMW,Hybride,26,23646,Autoroute,Calme,True,False,Professeur,Série 3,29550,Jazz,True,True,True,True,Science-fiction
+Client_115,4,927,Végétalien,Homme,Occitanie,True,False,True,66879,65,Volkswagen,Hybride,32,26275,Urbain,Excitante,True,True,Artisan,Série 3,28288,Jazz,True,True,False,True,Thriller
+Client_116,2,738,Omnivore,Non-binaire,Auvergne-Rhône-Alpes,True,True,True,33474,49,Peugeot,Hybride,47,36089,Autoroute,Calme,True,True,Ingénieur,Série 3,13994,Pop,True,True,False,True,Roman
+Client_117,5,589,Omnivore,Femme,Nouvelle-Aquitaine,False,True,True,86763,56,Renault,Essence,22,10934,Rural,Calme,True,True,Médecin,308,22714,Classique,True,False,False,True,Fantaisie
+Client_118,2,313,Omnivore,Femme,Nouvelle-Aquitaine,True,True,True,80695,45,Renault,Électrique,38,15533,Autoroute,Calme,True,True,Artisan,Golf,16864,Pop,False,True,False,False,Fantaisie
+Client_119,4,702,Végétalien,Non-binaire,Île-de-France,False,True,False,60886,55,Peugeot,Diesel,16,32019,Urbain,Calme,False,True,Commercial,Clio,5007,Hip-hop,True,False,False,True,Historique
+Client_120,1,533,Végétarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,False,40104,52,Peugeot,Essence,40,34936,Rural,Excitante,False,False,Commercial,308,17330,Hip-hop,False,True,False,False,Thriller
+Client_121,5,354,Omnivore,Non-binaire,Occitanie,True,False,True,68023,30,Renault,Essence,46,31938,Rural,Excitante,True,True,Artisan,Golf,10573,Jazz,True,False,False,True,Roman
+Client_122,2,924,Pescetarien,Non-binaire,Île-de-France,True,True,True,29634,57,Peugeot,Diesel,27,12587,Urbain,Calme,False,False,Professeur,Yaris,16258,Jazz,True,False,True,False,Fantaisie
+Client_123,4,963,Pescetarien,Non-binaire,Occitanie,True,True,True,81183,31,BMW,Essence,46,23431,Rural,Excitante,True,True,Ingénieur,308,27967,Rock,False,False,False,False,Roman
+Client_124,1,633,Végétalien,Homme,Occitanie,False,False,False,82071,59,Toyota,Essence,24,42631,Urbain,Calme,False,True,Artisan,Yaris,29967,Hip-hop,False,True,True,False,Fantaisie
+Client_125,4,567,Flexitarien,Non-binaire,Occitanie,True,True,False,88451,69,Volkswagen,Diesel,15,25135,Autoroute,Excitante,False,True,Ingénieur,308,21532,Jazz,True,True,False,False,Historique
+Client_126,1,761,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,False,True,69589,19,Peugeot,Essence,5,45047,Autoroute,Excitante,True,True,Médecin,308,5160,Classique,True,True,False,True,Thriller
+Client_127,4,668,Flexitarien,Femme,Occitanie,True,True,True,81780,21,BMW,Diesel,19,23206,Urbain,Excitante,False,False,Professeur,Clio,8580,Classique,False,True,False,True,Thriller
+Client_128,0,674,Végétalien,Non-binaire,Occitanie,True,False,False,65913,57,Renault,Électrique,30,6964,Rural,Excitante,True,True,Médecin,Golf,26077,Classique,True,True,False,False,Science-fiction
+Client_129,4,311,Pescetarien,Homme,Nouvelle-Aquitaine,True,False,True,70499,52,Toyota,Hybride,8,42839,Autoroute,Excitante,True,False,Commercial,Clio,11194,Pop,False,True,False,False,Historique
+Client_130,4,435,Flexitarien,Femme,Auvergne-Rhône-Alpes,False,True,True,50876,37,Peugeot,Essence,36,49323,Rural,Excitante,False,False,Médecin,Yaris,23146,Pop,True,True,False,True,Roman
+Client_131,0,969,Végétalien,Non-binaire,Île-de-France,True,False,True,41141,25,Peugeot,Diesel,16,7984,Urbain,Excitante,True,False,Médecin,Yaris,27909,Jazz,True,True,True,True,Historique
+Client_132,5,539,Végétarien,Homme,Nouvelle-Aquitaine,False,True,False,48939,29,Peugeot,Hybride,22,24548,Urbain,Calme,False,False,Professeur,Clio,17992,Classique,True,True,False,True,Roman
+Client_133,0,826,Flexitarien,Non-binaire,Occitanie,True,True,True,31381,38,Volkswagen,Hybride,21,42825,Autoroute,Calme,True,True,Ingénieur,Yaris,20745,Hip-hop,True,False,False,False,Science-fiction
+Client_134,1,754,Pescetarien,Non-binaire,Nouvelle-Aquitaine,False,True,False,70831,33,BMW,Électrique,21,10310,Rural,Excitante,False,False,Artisan,308,16169,Hip-hop,True,False,False,True,Science-fiction
+Client_135,2,675,Flexitarien,Homme,Île-de-France,False,False,False,73077,19,Renault,Essence,32,16834,Rural,Calme,True,True,Médecin,Clio,9232,Jazz,True,True,True,True,Roman
+Client_136,0,625,Omnivore,Non-binaire,Nouvelle-Aquitaine,False,False,False,85115,22,Volkswagen,Diesel,1,35319,Urbain,Excitante,True,False,Artisan,308,18621,Pop,False,True,False,False,Historique
+Client_137,2,955,Omnivore,Non-binaire,Occitanie,False,False,True,61122,34,BMW,Essence,11,10619,Autoroute,Calme,False,True,Artisan,Clio,11339,Classique,True,True,False,True,Science-fiction
+Client_138,2,376,Végétalien,Femme,Auvergne-Rhône-Alpes,True,False,True,85353,35,Toyota,Électrique,9,7596,Autoroute,Calme,True,False,Artisan,Golf,13262,Jazz,False,True,True,False,Roman
+Client_139,5,576,Pescetarien,Non-binaire,Occitanie,True,False,False,83607,69,Renault,Électrique,48,19754,Rural,Excitante,False,True,Professeur,Clio,11579,Jazz,True,True,True,False,Roman
+Client_140,2,382,Végétalien,Homme,Occitanie,True,False,False,81060,46,Peugeot,Diesel,50,42805,Rural,Excitante,True,True,Ingénieur,Golf,27702,Classique,True,True,True,True,Roman
+Client_141,2,499,Pescetarien,Homme,Occitanie,False,False,False,71364,34,BMW,Électrique,15,49199,Rural,Calme,True,True,Médecin,Golf,7445,Classique,False,True,False,False,Thriller
+Client_142,0,544,Flexitarien,Femme,Île-de-France,True,True,False,57754,44,Peugeot,Diesel,20,11777,Rural,Excitante,True,False,Commercial,Clio,16339,Pop,True,False,False,False,Thriller
+Client_143,2,784,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,True,True,True,47265,64,Toyota,Hybride,17,44790,Urbain,Calme,False,True,Artisan,Série 3,28306,Classique,False,False,False,True,Thriller
+Client_144,4,309,Végétalien,Homme,Auvergne-Rhône-Alpes,False,False,True,86667,54,Peugeot,Électrique,45,32513,Autoroute,Excitante,False,True,Commercial,Yaris,24362,Classique,False,False,False,False,Roman
+Client_145,3,361,Omnivore,Non-binaire,Nouvelle-Aquitaine,False,True,False,52902,38,Toyota,Électrique,10,26675,Urbain,Calme,True,True,Artisan,Yaris,13305,Hip-hop,True,False,True,True,Thriller
+Client_146,0,778,Omnivore,Non-binaire,Occitanie,False,True,True,83627,26,Volkswagen,Essence,35,41739,Urbain,Excitante,True,True,Commercial,Clio,10171,Jazz,False,True,False,True,Roman
+Client_147,0,890,Omnivore,Femme,Nouvelle-Aquitaine,False,True,True,82985,40,Toyota,Hybride,29,13215,Urbain,Excitante,False,False,Professeur,Série 3,27659,Hip-hop,False,False,False,True,Fantaisie
+Client_148,0,852,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,False,90467,53,Volkswagen,Essence,37,22127,Autoroute,Excitante,True,False,Ingénieur,Clio,15140,Classique,True,True,False,True,Historique
+Client_149,0,714,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,True,False,54535,26,Toyota,Électrique,41,42818,Urbain,Calme,False,True,Artisan,Série 3,8620,Pop,False,False,False,False,Fantaisie
+Client_150,1,675,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,False,False,True,95058,34,Volkswagen,Hybride,35,13494,Urbain,Excitante,True,True,Artisan,Série 3,28470,Pop,True,True,False,False,Historique
+Client_151,0,727,Flexitarien,Femme,Auvergne-Rhône-Alpes,False,False,False,47956,63,Peugeot,Hybride,36,36159,Autoroute,Excitante,True,False,Commercial,Clio,21164,Hip-hop,False,False,True,True,Fantaisie
+Client_152,3,570,Omnivore,Femme,Île-de-France,True,True,False,98040,28,Peugeot,Essence,13,27388,Urbain,Excitante,False,False,Artisan,Golf,23315,Jazz,False,False,False,True,Science-fiction
+Client_153,4,559,Végétarien,Femme,Île-de-France,True,True,False,65787,56,Peugeot,Hybride,29,17964,Autoroute,Calme,False,False,Professeur,Yaris,22796,Pop,False,True,False,True,Fantaisie
+Client_154,0,421,Végétarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,True,True,94959,59,Toyota,Électrique,32,49852,Rural,Calme,True,True,Artisan,Clio,25092,Classique,True,True,True,True,Science-fiction
+Client_155,5,788,Végétalien,Homme,Auvergne-Rhône-Alpes,True,True,True,94283,24,Toyota,Essence,48,31433,Autoroute,Excitante,True,True,Médecin,Golf,8036,Classique,True,False,True,False,Thriller
+Client_156,1,771,Pescetarien,Femme,Île-de-France,False,True,False,79620,23,Toyota,Électrique,40,40892,Urbain,Calme,False,True,Médecin,308,17262,Pop,True,False,False,True,Roman
+Client_157,3,979,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,True,True,28340,38,Peugeot,Diesel,19,24617,Rural,Excitante,True,False,Médecin,Clio,10898,Classique,True,False,True,True,Roman
+Client_158,2,725,Végétarien,Non-binaire,Nouvelle-Aquitaine,False,False,False,35918,39,Toyota,Hybride,49,30682,Urbain,Excitante,False,True,Artisan,Yaris,24941,Jazz,True,False,False,True,Thriller
+Client_159,0,598,Végétarien,Non-binaire,Île-de-France,False,False,False,77080,65,Volkswagen,Essence,28,44637,Autoroute,Excitante,True,True,Artisan,Clio,21080,Hip-hop,False,True,True,False,Roman
+Client_160,0,894,Omnivore,Femme,Provence-Alpes-Côte d'Azur,True,False,False,62396,34,Volkswagen,Hybride,32,40404,Autoroute,Excitante,False,True,Commercial,308,8332,Classique,False,True,False,True,Thriller
+Client_161,3,879,Végétalien,Femme,Nouvelle-Aquitaine,True,True,True,59337,70,BMW,Essence,33,15348,Urbain,Calme,True,False,Professeur,Golf,9803,Pop,False,True,True,True,Roman
+Client_162,2,823,Pescetarien,Non-binaire,Auvergne-Rhône-Alpes,False,False,False,36359,52,Toyota,Électrique,24,7365,Autoroute,Excitante,False,True,Professeur,Yaris,10488,Jazz,False,False,True,False,Historique
+Client_163,3,452,Végétarien,Homme,Auvergne-Rhône-Alpes,False,True,False,44823,28,Renault,Diesel,27,42591,Urbain,Excitante,True,True,Ingénieur,308,26576,Rock,False,True,True,False,Roman
+Client_164,3,451,Végétarien,Femme,Nouvelle-Aquitaine,False,True,False,24964,54,Toyota,Diesel,29,26496,Urbain,Calme,True,True,Artisan,Série 3,8937,Jazz,False,False,True,False,Thriller
+Client_165,2,852,Flexitarien,Non-binaire,Occitanie,True,True,False,93046,20,Renault,Électrique,1,38616,Autoroute,Excitante,False,False,Médecin,308,29134,Classique,False,False,True,False,Roman
+Client_166,0,462,Végétarien,Homme,Auvergne-Rhône-Alpes,True,True,False,90777,42,Toyota,Essence,23,39311,Urbain,Excitante,False,True,Artisan,Yaris,22308,Hip-hop,True,True,False,True,Science-fiction
+Client_167,2,424,Végétalien,Femme,Île-de-France,False,False,True,84995,60,Volkswagen,Hybride,27,18799,Rural,Calme,False,False,Ingénieur,Clio,24006,Classique,True,True,True,False,Roman
+Client_168,4,501,Végétalien,Homme,Île-de-France,False,True,True,98495,34,BMW,Diesel,28,11936,Rural,Excitante,True,False,Artisan,308,29419,Rock,True,False,False,False,Historique
+Client_169,0,337,Omnivore,Non-binaire,Nouvelle-Aquitaine,True,True,False,28289,45,BMW,Essence,41,21930,Rural,Excitante,False,False,Professeur,308,10116,Pop,False,False,True,True,Historique
+Client_170,5,408,Végétarien,Femme,Occitanie,False,False,True,83852,67,BMW,Hybride,1,5776,Urbain,Excitante,False,True,Ingénieur,Série 3,24655,Pop,False,False,True,True,Roman
+Client_171,0,771,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,True,95858,35,Volkswagen,Électrique,32,23647,Rural,Excitante,True,True,Commercial,Série 3,13132,Jazz,False,False,True,False,Historique
+Client_172,1,957,Pescetarien,Non-binaire,Occitanie,True,True,False,34327,18,Renault,Essence,4,30628,Urbain,Excitante,True,True,Commercial,Série 3,27903,Classique,True,True,True,False,Roman
+Client_173,5,891,Végétalien,Non-binaire,Nouvelle-Aquitaine,False,False,True,28757,25,Renault,Électrique,12,11854,Autoroute,Excitante,True,True,Médecin,Golf,9363,Pop,True,False,True,False,Roman
+Client_174,1,795,Flexitarien,Homme,Occitanie,False,False,True,46687,19,Toyota,Essence,10,29468,Urbain,Excitante,True,False,Artisan,Golf,6864,Classique,False,False,True,True,Science-fiction
+Client_175,0,500,Flexitarien,Homme,Nouvelle-Aquitaine,True,False,True,22194,25,Toyota,Hybride,13,32807,Urbain,Calme,False,False,Professeur,Clio,6368,Classique,False,False,True,True,Thriller
+Client_176,2,930,Végétarien,Femme,Auvergne-Rhône-Alpes,False,False,True,45272,41,Peugeot,Diesel,12,39557,Autoroute,Calme,False,True,Commercial,Yaris,28837,Hip-hop,False,True,False,True,Thriller
+Client_177,1,371,Végétarien,Non-binaire,Occitanie,False,False,False,25764,35,Volkswagen,Diesel,50,37664,Rural,Excitante,True,True,Médecin,Yaris,13544,Classique,True,False,True,False,Thriller
+Client_178,0,901,Végétarien,Femme,Île-de-France,False,False,True,76957,32,Peugeot,Hybride,17,13821,Urbain,Calme,False,True,Professeur,Yaris,6245,Hip-hop,False,True,True,True,Science-fiction
+Client_179,1,906,Omnivore,Homme,Île-de-France,True,True,True,42759,48,Volkswagen,Essence,25,21508,Rural,Calme,False,False,Ingénieur,308,5552,Classique,True,False,True,False,Science-fiction
+Client_180,5,392,Omnivore,Femme,Auvergne-Rhône-Alpes,False,True,True,78000,42,Volkswagen,Hybride,14,48056,Rural,Calme,False,False,Ingénieur,Yaris,23720,Pop,False,True,False,True,Fantaisie
+Client_181,4,837,Pescetarien,Femme,Auvergne-Rhône-Alpes,True,True,False,34364,21,BMW,Diesel,12,35020,Rural,Calme,False,False,Commercial,Clio,7190,Rock,True,True,False,False,Thriller
+Client_182,3,945,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,False,True,True,60472,39,Toyota,Électrique,31,6290,Urbain,Excitante,True,False,Artisan,Golf,5384,Pop,False,True,True,False,Roman
+Client_183,0,654,Végétalien,Non-binaire,Provence-Alpes-Côte d'Azur,False,True,False,90810,56,Peugeot,Essence,50,42851,Autoroute,Excitante,True,True,Artisan,308,6708,Pop,False,True,True,False,Roman
+Client_184,1,696,Végétarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,False,84443,28,BMW,Hybride,14,44189,Urbain,Calme,True,False,Médecin,Yaris,8536,Hip-hop,False,True,True,False,Thriller
+Client_185,4,688,Omnivore,Homme,Occitanie,False,True,False,96920,56,Toyota,Essence,19,15170,Autoroute,Excitante,True,False,Médecin,Série 3,12689,Hip-hop,True,False,False,True,Science-fiction
+Client_186,0,696,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,False,True,False,87821,41,BMW,Essence,41,18460,Urbain,Excitante,False,False,Commercial,Série 3,29569,Classique,False,True,False,False,Science-fiction
+Client_187,4,975,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,84413,35,Renault,Diesel,11,43005,Urbain,Excitante,False,True,Professeur,Série 3,21143,Classique,True,False,False,False,Thriller
+Client_188,4,844,Pescetarien,Homme,Occitanie,False,True,False,49386,32,Toyota,Essence,18,44677,Autoroute,Calme,False,False,Commercial,Série 3,24324,Pop,False,True,True,True,Science-fiction
+Client_189,5,839,Pescetarien,Non-binaire,Nouvelle-Aquitaine,False,False,False,38957,64,Volkswagen,Diesel,5,37055,Autoroute,Excitante,True,False,Médecin,Clio,24715,Pop,False,False,True,False,Fantaisie
+Client_190,1,988,Végétarien,Homme,Auvergne-Rhône-Alpes,False,True,True,71243,65,Peugeot,Diesel,14,9349,Urbain,Calme,True,True,Professeur,Yaris,20708,Jazz,True,False,True,False,Thriller
+Client_191,0,735,Végétarien,Homme,Occitanie,False,False,True,73675,39,Volkswagen,Essence,25,15038,Rural,Calme,False,True,Commercial,308,12381,Hip-hop,False,True,True,True,Roman
+Client_192,1,885,Pescetarien,Femme,Occitanie,False,True,True,89905,67,Volkswagen,Diesel,13,16159,Rural,Calme,False,True,Professeur,Clio,13932,Hip-hop,True,False,True,False,Fantaisie
+Client_193,0,531,Flexitarien,Homme,Provence-Alpes-Côte d'Azur,False,False,False,77739,59,BMW,Essence,16,7924,Urbain,Excitante,False,False,Commercial,Clio,8277,Jazz,True,False,True,False,Thriller
+Client_194,1,417,Pescetarien,Homme,Occitanie,True,False,False,27724,23,Volkswagen,Électrique,34,40249,Rural,Excitante,True,True,Ingénieur,308,29202,Rock,True,True,False,True,Thriller
+Client_195,0,798,Végétalien,Non-binaire,Occitanie,True,False,True,70888,37,Toyota,Hybride,15,15878,Rural,Calme,False,False,Médecin,Série 3,19176,Pop,False,True,True,True,Historique
+Client_196,4,655,Flexitarien,Homme,Auvergne-Rhône-Alpes,True,False,False,52707,65,BMW,Électrique,45,5585,Rural,Excitante,False,True,Commercial,Yaris,26092,Jazz,True,False,True,False,Thriller
+Client_197,5,413,Végétarien,Femme,Nouvelle-Aquitaine,False,False,False,96051,68,BMW,Hybride,14,35067,Urbain,Calme,False,True,Professeur,Clio,7534,Classique,True,False,False,False,Historique
+Client_198,0,547,Végétarien,Femme,Auvergne-Rhône-Alpes,True,False,True,70579,41,BMW,Essence,4,44350,Autoroute,Excitante,False,False,Médecin,Yaris,11423,Classique,False,False,True,False,Science-fiction
+Client_199,1,775,Végétarien,Femme,Occitanie,True,True,True,39142,56,Peugeot,Hybride,41,9855,Rural,Excitante,True,True,Commercial,Yaris,13925,Pop,False,True,True,True,Historique
+Client_200,2,376,Flexitarien,Homme,Occitanie,False,True,True,70675,57,Volkswagen,Essence,29,28745,Autoroute,Calme,True,False,Artisan,308,12762,Rock,False,False,False,True,Thriller
+Client_201,3,304,Flexitarien,Non-binaire,Occitanie,False,True,False,53284,43,Volkswagen,Électrique,12,9261,Urbain,Calme,False,True,Médecin,Clio,9337,Hip-hop,True,False,True,True,Historique
+Client_202,4,495,Flexitarien,Homme,Auvergne-Rhône-Alpes,True,False,True,33461,56,Peugeot,Hybride,7,40422,Autoroute,Excitante,False,False,Artisan,Golf,11736,Jazz,False,True,False,False,Thriller
+Client_203,4,346,Omnivore,Homme,Nouvelle-Aquitaine,True,False,True,95242,56,Peugeot,Hybride,27,6575,Autoroute,Excitante,False,True,Professeur,Clio,10589,Rock,False,False,True,False,Thriller
+Client_204,1,672,Omnivore,Non-binaire,Île-de-France,False,False,False,53246,63,BMW,Électrique,6,29433,Autoroute,Calme,False,True,Ingénieur,Yaris,29003,Pop,True,False,True,False,Science-fiction
+Client_205,5,759,Végétarien,Homme,Provence-Alpes-Côte d'Azur,True,True,False,76149,27,Volkswagen,Électrique,3,26669,Urbain,Calme,False,False,Professeur,Yaris,25155,Hip-hop,False,False,False,False,Science-fiction
+Client_206,4,849,Omnivore,Non-binaire,Occitanie,False,True,True,61681,55,Volkswagen,Diesel,46,10965,Urbain,Calme,True,True,Professeur,308,9919,Rock,False,True,False,True,Historique
+Client_207,3,363,Flexitarien,Femme,Île-de-France,True,False,False,49412,56,Renault,Essence,38,8944,Rural,Calme,False,False,Commercial,Série 3,25668,Pop,False,True,True,True,Science-fiction
+Client_208,1,437,Végétarien,Non-binaire,Île-de-France,False,False,True,62911,38,Toyota,Électrique,4,47827,Autoroute,Calme,True,True,Médecin,Clio,5507,Pop,False,True,False,False,Historique
+Client_209,0,476,Omnivore,Femme,Auvergne-Rhône-Alpes,True,True,True,23603,26,BMW,Électrique,23,22602,Autoroute,Calme,True,True,Artisan,308,17857,Pop,False,False,True,False,Thriller
+Client_210,4,402,Pescetarien,Non-binaire,Auvergne-Rhône-Alpes,False,True,False,84280,20,Volkswagen,Essence,25,9617,Urbain,Calme,False,False,Commercial,Golf,16417,Classique,False,True,True,False,Thriller
+Client_211,4,305,Pescetarien,Non-binaire,Auvergne-Rhône-Alpes,False,False,False,40791,70,BMW,Essence,33,36970,Urbain,Calme,True,True,Artisan,Golf,14616,Pop,True,True,True,True,Historique
+Client_212,1,623,Pescetarien,Homme,Auvergne-Rhône-Alpes,False,True,False,23073,42,Toyota,Essence,34,26252,Autoroute,Excitante,False,True,Artisan,Série 3,27524,Classique,True,False,True,True,Historique
+Client_213,4,622,Végétalien,Homme,Nouvelle-Aquitaine,False,False,True,23771,48,Renault,Essence,36,11252,Rural,Calme,False,False,Médecin,Clio,16107,Classique,True,False,False,True,Fantaisie
+Client_214,4,472,Omnivore,Femme,Auvergne-Rhône-Alpes,True,True,True,99127,19,Toyota,Électrique,32,34873,Urbain,Excitante,True,False,Médecin,Série 3,18904,Jazz,True,True,False,False,Historique
+Client_215,0,694,Végétalien,Non-binaire,Nouvelle-Aquitaine,False,True,False,39356,67,BMW,Hybride,30,21673,Autoroute,Calme,False,False,Artisan,308,20997,Jazz,True,True,True,False,Thriller
+Client_216,2,488,Végétarien,Homme,Île-de-France,True,False,True,68315,40,BMW,Essence,20,44875,Rural,Excitante,True,False,Ingénieur,Yaris,25264,Classique,False,False,False,True,Science-fiction
+Client_217,3,897,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,False,True,False,69009,57,Peugeot,Électrique,40,7413,Urbain,Calme,True,True,Commercial,308,7559,Hip-hop,True,True,False,True,Fantaisie
+Client_218,0,979,Omnivore,Homme,Occitanie,False,True,False,56137,54,Volkswagen,Électrique,47,34399,Urbain,Excitante,True,False,Médecin,Série 3,26770,Jazz,True,False,True,True,Historique
+Client_219,4,564,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,True,True,35606,68,Renault,Électrique,10,18234,Rural,Excitante,False,False,Artisan,Golf,25933,Pop,True,True,False,False,Science-fiction
+Client_220,5,696,Flexitarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,94079,61,Peugeot,Hybride,40,29012,Urbain,Calme,False,True,Commercial,Série 3,14904,Hip-hop,False,True,False,False,Roman
+Client_221,0,631,Flexitarien,Femme,Nouvelle-Aquitaine,False,False,False,21164,33,Volkswagen,Diesel,28,29858,Urbain,Excitante,True,False,Commercial,308,29743,Jazz,True,True,False,False,Historique
+Client_222,0,869,Végétalien,Homme,Provence-Alpes-Côte d'Azur,False,False,False,66657,22,Renault,Hybride,46,7264,Urbain,Calme,False,True,Commercial,308,18913,Jazz,False,False,True,True,Science-fiction
+Client_223,4,798,Omnivore,Non-binaire,Île-de-France,True,True,True,32388,66,Toyota,Électrique,1,5168,Urbain,Calme,False,True,Artisan,Golf,17746,Pop,False,False,True,True,Science-fiction
+Client_224,4,527,Omnivore,Femme,Nouvelle-Aquitaine,True,True,True,96423,29,Renault,Essence,40,40104,Autoroute,Calme,True,False,Artisan,Yaris,15047,Hip-hop,True,True,False,False,Fantaisie
+Client_225,2,440,Végétalien,Non-binaire,Occitanie,False,False,False,94242,38,Peugeot,Hybride,49,17535,Urbain,Excitante,False,False,Ingénieur,Golf,22322,Jazz,True,True,True,False,Historique
+Client_226,2,917,Végétarien,Homme,Auvergne-Rhône-Alpes,True,False,False,34306,25,Renault,Essence,3,17318,Rural,Excitante,False,False,Médecin,Série 3,29095,Rock,True,False,False,False,Science-fiction
+Client_227,0,701,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,True,False,81609,51,BMW,Électrique,50,48072,Rural,Calme,False,False,Professeur,Golf,17719,Classique,False,True,True,False,Science-fiction
+Client_228,5,462,Végétalien,Non-binaire,Île-de-France,False,True,False,80384,37,Volkswagen,Essence,41,49359,Urbain,Excitante,True,False,Professeur,Série 3,27368,Rock,False,False,True,False,Roman
+Client_229,1,602,Végétarien,Femme,Nouvelle-Aquitaine,True,False,False,24596,32,Volkswagen,Diesel,14,36447,Rural,Calme,True,False,Ingénieur,308,9071,Classique,True,False,False,True,Historique
+Client_230,2,517,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,False,True,False,27572,69,Renault,Diesel,19,41113,Rural,Calme,False,False,Professeur,Yaris,18465,Pop,True,True,True,False,Fantaisie
+Client_231,1,705,Végétarien,Non-binaire,Île-de-France,False,False,True,54283,48,Volkswagen,Électrique,13,27896,Autoroute,Excitante,False,True,Artisan,Clio,26690,Pop,False,True,False,False,Fantaisie
+Client_232,1,606,Pescetarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,67921,36,Volkswagen,Essence,25,13122,Autoroute,Excitante,False,True,Artisan,Série 3,5491,Pop,False,True,True,True,Roman
+Client_233,5,418,Végétarien,Non-binaire,Occitanie,True,False,True,33066,21,Toyota,Électrique,15,43139,Urbain,Excitante,False,False,Ingénieur,Série 3,10163,Pop,True,False,True,False,Historique
+Client_234,3,713,Flexitarien,Femme,Nouvelle-Aquitaine,False,True,False,93830,36,Renault,Électrique,13,18195,Urbain,Excitante,True,True,Artisan,Golf,27350,Jazz,True,True,False,True,Historique
+Client_235,2,582,Végétalien,Femme,Occitanie,True,False,True,45782,63,Toyota,Hybride,45,31234,Autoroute,Calme,True,True,Professeur,Série 3,26869,Classique,False,True,False,False,Roman
+Client_236,3,570,Végétarien,Homme,Occitanie,True,True,True,75751,50,Renault,Essence,28,32679,Urbain,Excitante,False,False,Commercial,308,22292,Pop,True,False,False,True,Historique
+Client_237,2,436,Pescetarien,Non-binaire,Occitanie,False,False,True,86213,39,Volkswagen,Hybride,8,37400,Urbain,Calme,False,True,Ingénieur,Golf,10272,Classique,False,False,True,True,Fantaisie
+Client_238,2,867,Flexitarien,Homme,Île-de-France,True,False,True,68054,42,Toyota,Diesel,30,33972,Rural,Calme,False,False,Ingénieur,Golf,10429,Pop,False,True,True,False,Roman
+Client_239,4,830,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,False,True,45645,29,BMW,Électrique,10,21226,Urbain,Calme,True,True,Commercial,308,6713,Jazz,True,True,False,False,Science-fiction
+Client_240,3,520,Végétarien,Non-binaire,Occitanie,True,True,True,92070,37,Renault,Essence,44,11221,Rural,Calme,False,False,Professeur,Yaris,6415,Jazz,False,True,True,False,Historique
+Client_241,0,904,Omnivore,Homme,Nouvelle-Aquitaine,True,False,True,48432,45,Toyota,Essence,47,49388,Autoroute,Excitante,True,True,Artisan,Golf,14812,Rock,True,True,False,True,Roman
+Client_242,1,916,Végétalien,Homme,Provence-Alpes-Côte d'Azur,False,True,False,87638,48,Peugeot,Diesel,35,35595,Urbain,Calme,True,True,Artisan,308,22329,Pop,True,True,True,True,Historique
+Client_243,2,643,Omnivore,Non-binaire,Occitanie,False,False,False,40353,64,Volkswagen,Diesel,11,17772,Urbain,Excitante,False,True,Ingénieur,Série 3,12748,Hip-hop,False,True,False,False,Historique
+Client_244,0,425,Omnivore,Femme,Île-de-France,True,False,False,46558,32,Volkswagen,Diesel,14,26777,Rural,Calme,False,True,Médecin,308,26123,Hip-hop,True,False,False,False,Science-fiction
+Client_245,2,380,Végétarien,Homme,Nouvelle-Aquitaine,True,False,True,22840,31,Volkswagen,Électrique,7,44293,Autoroute,Calme,True,True,Ingénieur,Série 3,10417,Rock,False,True,True,True,Roman
+Client_246,0,369,Végétalien,Non-binaire,Occitanie,True,True,True,78613,62,Volkswagen,Diesel,17,8440,Urbain,Excitante,True,False,Professeur,Yaris,18788,Classique,True,True,True,True,Thriller
+Client_247,3,648,Végétarien,Homme,Auvergne-Rhône-Alpes,True,False,True,95500,34,Toyota,Essence,8,8676,Rural,Excitante,False,False,Artisan,Série 3,17787,Rock,False,True,False,False,Fantaisie
+Client_248,0,333,Végétalien,Homme,Auvergne-Rhône-Alpes,False,False,False,22788,56,Volkswagen,Électrique,6,21360,Urbain,Excitante,True,True,Médecin,Clio,15380,Rock,False,True,True,True,Roman
+Client_249,2,361,Pescetarien,Homme,Auvergne-Rhône-Alpes,False,False,False,59007,40,Toyota,Essence,15,23228,Rural,Excitante,False,True,Médecin,Golf,11120,Pop,False,False,True,False,Fantaisie
+Client_250,0,451,Végétarien,Homme,Île-de-France,True,True,True,46852,50,Peugeot,Hybride,50,28111,Autoroute,Excitante,True,False,Ingénieur,Clio,10123,Jazz,False,False,True,False,Historique
+Client_251,1,670,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,True,False,61797,24,Toyota,Hybride,49,31085,Rural,Excitante,False,False,Professeur,Golf,7565,Hip-hop,True,True,False,False,Roman
+Client_252,1,608,Omnivore,Femme,Provence-Alpes-Côte d'Azur,True,True,False,74780,28,Peugeot,Électrique,31,40021,Autoroute,Calme,False,True,Artisan,308,11964,Rock,True,True,False,False,Science-fiction
+Client_253,5,304,Flexitarien,Homme,Occitanie,False,True,False,31127,44,Renault,Hybride,8,49137,Autoroute,Calme,False,False,Professeur,308,8281,Pop,False,True,False,False,Thriller
+Client_254,4,737,Flexitarien,Homme,Auvergne-Rhône-Alpes,True,False,False,82638,27,Peugeot,Diesel,38,38441,Urbain,Excitante,True,True,Ingénieur,308,26153,Classique,True,True,True,False,Science-fiction
+Client_255,2,514,Flexitarien,Homme,Nouvelle-Aquitaine,False,True,True,99335,48,Volkswagen,Essence,13,29525,Autoroute,Excitante,True,True,Médecin,Clio,24873,Rock,False,True,False,False,Science-fiction
+Client_256,5,781,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,False,False,32232,56,Renault,Électrique,15,23976,Urbain,Excitante,True,True,Commercial,Yaris,22585,Hip-hop,False,False,False,False,Thriller
+Client_257,4,467,Pescetarien,Non-binaire,Île-de-France,False,True,False,83077,50,BMW,Hybride,42,48805,Autoroute,Calme,True,True,Artisan,Yaris,17158,Pop,True,True,True,False,Roman
+Client_258,0,906,Pescetarien,Femme,Île-de-France,True,False,True,93954,57,Toyota,Diesel,44,14473,Urbain,Calme,False,True,Commercial,Série 3,17126,Classique,False,False,False,True,Thriller
+Client_259,3,447,Végétalien,Femme,Nouvelle-Aquitaine,True,False,False,78644,48,Toyota,Hybride,4,29778,Urbain,Excitante,True,True,Médecin,Série 3,10661,Hip-hop,False,True,True,False,Roman
+Client_260,4,688,Pescetarien,Femme,Provence-Alpes-Côte d'Azur,True,True,True,31007,22,Toyota,Essence,25,9981,Rural,Excitante,True,False,Commercial,Clio,19318,Jazz,True,True,False,True,Thriller
+Client_261,0,846,Végétarien,Non-binaire,Nouvelle-Aquitaine,True,False,True,86704,45,Volkswagen,Diesel,6,21853,Urbain,Excitante,False,True,Professeur,Clio,17603,Hip-hop,False,False,False,False,Thriller
+Client_262,1,747,Végétalien,Non-binaire,Occitanie,False,False,False,88152,45,Volkswagen,Diesel,30,41827,Autoroute,Calme,True,True,Commercial,308,27575,Pop,False,False,False,True,Historique
+Client_263,4,755,Flexitarien,Non-binaire,Occitanie,False,False,False,96093,59,Peugeot,Essence,12,30657,Autoroute,Calme,False,False,Professeur,Clio,14626,Rock,False,False,True,True,Fantaisie
+Client_264,0,450,Flexitarien,Non-binaire,Île-de-France,False,True,False,79666,28,Peugeot,Essence,33,35523,Autoroute,Excitante,False,True,Professeur,Yaris,8447,Pop,True,False,False,True,Roman
+Client_265,5,430,Pescetarien,Homme,Occitanie,True,False,True,52064,67,Toyota,Hybride,46,28952,Rural,Excitante,False,False,Ingénieur,Yaris,9546,Hip-hop,True,True,False,False,Science-fiction
+Client_266,4,562,Pescetarien,Femme,Nouvelle-Aquitaine,False,False,False,39322,28,Renault,Diesel,28,29678,Rural,Excitante,True,False,Commercial,308,20044,Rock,False,True,True,False,Historique
+Client_267,0,898,Végétarien,Homme,Occitanie,False,False,True,94025,21,Toyota,Essence,42,34088,Autoroute,Excitante,True,False,Commercial,308,6065,Rock,False,True,False,False,Science-fiction
+Client_268,2,909,Végétalien,Homme,Nouvelle-Aquitaine,True,False,True,88082,40,Renault,Hybride,39,15235,Autoroute,Calme,True,True,Médecin,Série 3,10823,Classique,True,False,False,False,Roman
+Client_269,1,537,Omnivore,Femme,Nouvelle-Aquitaine,True,False,True,96398,28,Toyota,Diesel,39,38133,Rural,Excitante,False,True,Médecin,Yaris,29551,Rock,True,False,True,True,Science-fiction
+Client_270,2,477,Flexitarien,Homme,Nouvelle-Aquitaine,True,False,False,69150,64,Toyota,Diesel,31,20710,Urbain,Calme,False,True,Artisan,308,27585,Hip-hop,True,False,True,False,Fantaisie
+Client_271,2,530,Végétalien,Homme,Provence-Alpes-Côte d'Azur,True,False,False,20557,50,Toyota,Électrique,25,36191,Urbain,Excitante,True,True,Médecin,308,5822,Rock,True,True,True,False,Roman
+Client_272,2,714,Végétarien,Femme,Île-de-France,False,False,False,89619,41,Peugeot,Hybride,5,23537,Autoroute,Calme,True,True,Commercial,Golf,15437,Rock,False,False,False,True,Thriller
+Client_273,2,537,Végétalien,Homme,Occitanie,True,False,True,37300,61,Renault,Essence,50,32244,Autoroute,Calme,False,True,Commercial,Clio,24368,Classique,False,True,False,False,Science-fiction
+Client_274,3,715,Végétalien,Homme,Occitanie,True,True,True,63314,39,Peugeot,Diesel,21,40434,Autoroute,Calme,True,True,Artisan,Clio,13650,Rock,False,True,False,False,Roman
+Client_275,0,916,Pescetarien,Homme,Occitanie,True,False,True,29804,49,Toyota,Électrique,21,42685,Autoroute,Excitante,False,False,Professeur,Yaris,7918,Hip-hop,True,False,True,True,Thriller
+Client_276,0,994,Pescetarien,Homme,Auvergne-Rhône-Alpes,True,True,False,25239,59,Peugeot,Hybride,32,7781,Urbain,Calme,False,True,Professeur,Série 3,5315,Hip-hop,True,False,False,False,Thriller
+Client_277,5,321,Flexitarien,Non-binaire,Occitanie,True,True,True,59202,28,Peugeot,Hybride,47,34572,Autoroute,Excitante,True,False,Artisan,Yaris,21687,Pop,False,False,True,False,Fantaisie
+Client_278,5,565,Végétarien,Homme,Occitanie,True,False,True,63245,22,Renault,Essence,39,15541,Urbain,Excitante,True,False,Professeur,Yaris,29140,Hip-hop,False,False,True,False,Historique
+Client_279,0,594,Pescetarien,Homme,Île-de-France,True,False,True,39182,53,Peugeot,Essence,33,38233,Autoroute,Excitante,False,True,Professeur,Golf,10983,Hip-hop,True,True,True,False,Roman
+Client_280,4,941,Omnivore,Non-binaire,Occitanie,True,True,False,22450,51,BMW,Électrique,2,20516,Urbain,Calme,False,True,Médecin,Golf,19522,Hip-hop,False,True,False,True,Fantaisie
+Client_281,3,315,Végétalien,Non-binaire,Île-de-France,False,True,True,85869,44,Peugeot,Hybride,6,34892,Autoroute,Calme,True,True,Commercial,308,15292,Classique,True,True,True,False,Historique
+Client_282,3,702,Végétarien,Non-binaire,Île-de-France,True,True,True,34709,36,Volkswagen,Électrique,46,49619,Rural,Calme,False,False,Professeur,Golf,11267,Rock,True,False,True,True,Roman
+Client_283,3,329,Végétarien,Homme,Nouvelle-Aquitaine,False,False,True,22201,34,Volkswagen,Diesel,6,15105,Rural,Excitante,True,False,Professeur,Yaris,6417,Jazz,True,False,True,True,Roman
+Client_284,5,695,Végétarien,Homme,Nouvelle-Aquitaine,True,False,True,54592,38,BMW,Hybride,18,49834,Urbain,Excitante,False,True,Commercial,Clio,29983,Pop,True,False,True,True,Science-fiction
+Client_285,0,607,Pescetarien,Homme,Auvergne-Rhône-Alpes,True,True,True,29905,21,BMW,Essence,20,8343,Rural,Excitante,False,False,Médecin,Série 3,17719,Rock,True,False,True,False,Roman
+Client_286,4,737,Végétalien,Homme,Auvergne-Rhône-Alpes,False,True,False,89269,31,BMW,Essence,35,26481,Rural,Excitante,True,True,Professeur,Série 3,6196,Rock,True,False,True,True,Fantaisie
+Client_287,5,474,Pescetarien,Non-binaire,Occitanie,True,False,False,24037,36,Toyota,Essence,43,31028,Autoroute,Calme,False,True,Professeur,Série 3,16716,Rock,True,True,True,True,Science-fiction
+Client_288,1,985,Pescetarien,Femme,Île-de-France,True,False,False,87128,33,Peugeot,Électrique,19,33173,Autoroute,Calme,False,False,Commercial,Golf,28191,Rock,True,False,True,False,Science-fiction
+Client_289,5,405,Végétarien,Homme,Provence-Alpes-Côte d'Azur,False,True,True,93792,21,Toyota,Diesel,4,21609,Rural,Calme,False,True,Artisan,Golf,5838,Jazz,True,False,True,False,Thriller
+Client_290,2,813,Végétalien,Femme,Île-de-France,False,False,False,22916,67,Volkswagen,Hybride,33,11334,Autoroute,Calme,True,False,Médecin,Golf,14439,Classique,False,True,True,True,Thriller
+Client_291,5,375,Végétalien,Homme,Nouvelle-Aquitaine,True,True,True,78817,43,BMW,Électrique,21,26292,Autoroute,Calme,True,True,Commercial,Série 3,8631,Pop,True,True,True,False,Fantaisie
+Client_292,3,818,Pescetarien,Non-binaire,Auvergne-Rhône-Alpes,False,True,False,42884,68,BMW,Diesel,28,5955,Autoroute,Excitante,False,False,Professeur,Golf,22400,Jazz,True,False,True,True,Fantaisie
+Client_293,4,487,Végétalien,Femme,Nouvelle-Aquitaine,False,True,True,98390,46,Peugeot,Diesel,25,19434,Autoroute,Calme,True,True,Professeur,Série 3,17876,Pop,False,True,True,False,Roman
+Client_294,2,448,Pescetarien,Homme,Occitanie,False,True,True,93313,55,Renault,Diesel,43,16385,Autoroute,Excitante,False,True,Professeur,Golf,13366,Rock,False,True,False,False,Fantaisie
+Client_295,3,975,Omnivore,Femme,Nouvelle-Aquitaine,False,True,True,51091,46,Volkswagen,Essence,49,5557,Rural,Calme,True,False,Artisan,Série 3,28707,Rock,True,False,True,True,Thriller
+Client_296,1,623,Pescetarien,Homme,Auvergne-Rhône-Alpes,False,False,False,99336,32,Volkswagen,Hybride,29,28698,Rural,Excitante,True,False,Commercial,Golf,6008,Classique,False,True,False,True,Science-fiction
+Client_297,5,676,Végétarien,Homme,Île-de-France,True,True,False,29918,68,BMW,Diesel,5,46302,Urbain,Calme,True,False,Commercial,Golf,9109,Pop,False,True,True,False,Science-fiction
+Client_298,1,852,Végétarien,Femme,Île-de-France,True,False,False,90237,29,Renault,Électrique,8,35434,Autoroute,Excitante,False,False,Professeur,Golf,14393,Jazz,False,True,False,False,Fantaisie
+Client_299,5,365,Pescetarien,Homme,Provence-Alpes-Côte d'Azur,False,False,False,92367,38,Renault,Essence,33,38541,Autoroute,Excitante,True,False,Commercial,Golf,25431,Pop,True,True,False,False,Roman
+Client_300,2,719,Pescetarien,Femme,Occitanie,False,True,True,58906,45,BMW,Essence,5,43844,Autoroute,Calme,True,False,Médecin,Golf,24614,Hip-hop,True,True,False,True,Fantaisie
+Client_301,0,907,Pescetarien,Femme,Île-de-France,True,True,True,57328,54,BMW,Électrique,9,37808,Autoroute,Calme,False,True,Professeur,Yaris,25603,Hip-hop,False,True,True,True,Science-fiction
+Client_302,1,764,Flexitarien,Femme,Auvergne-Rhône-Alpes,False,False,True,76046,25,Peugeot,Électrique,48,48193,Urbain,Calme,True,False,Artisan,Golf,18408,Rock,True,False,False,True,Roman
+Client_303,3,547,Pescetarien,Non-binaire,Île-de-France,True,True,False,69907,62,Toyota,Essence,2,17629,Rural,Excitante,False,True,Médecin,308,13750,Hip-hop,True,False,False,True,Historique
+Client_304,1,329,Flexitarien,Femme,Occitanie,False,False,False,45898,29,Renault,Hybride,11,24897,Autoroute,Calme,True,True,Commercial,Yaris,15751,Classique,True,True,True,False,Fantaisie
+Client_305,0,746,Omnivore,Non-binaire,Nouvelle-Aquitaine,True,False,False,36850,41,Peugeot,Diesel,4,12603,Rural,Calme,False,True,Artisan,Clio,19745,Pop,False,False,False,True,Roman
+Client_306,3,464,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,False,False,88650,28,Peugeot,Hybride,45,16069,Rural,Calme,True,True,Commercial,308,19321,Jazz,True,False,False,False,Roman
+Client_307,5,301,Omnivore,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,True,78228,39,Peugeot,Hybride,28,5217,Rural,Calme,True,True,Ingénieur,Yaris,27983,Classique,True,True,True,True,Historique
+Client_308,5,580,Végétarien,Homme,Nouvelle-Aquitaine,False,True,True,76013,65,Toyota,Essence,11,35644,Autoroute,Excitante,True,True,Commercial,308,19465,Hip-hop,False,False,True,True,Historique
+Client_309,1,503,Pescetarien,Femme,Île-de-France,False,True,True,27242,64,Volkswagen,Électrique,24,10587,Rural,Calme,False,False,Médecin,Yaris,20647,Rock,False,True,True,False,Roman
+Client_310,3,909,Végétalien,Non-binaire,Île-de-France,True,True,True,71192,41,Volkswagen,Diesel,45,24434,Rural,Excitante,False,True,Commercial,Golf,14388,Rock,True,True,False,True,Roman
+Client_311,4,799,Omnivore,Femme,Île-de-France,False,False,True,88510,19,Toyota,Électrique,13,22212,Rural,Excitante,True,True,Professeur,Yaris,8715,Rock,True,True,True,True,Thriller
+Client_312,3,634,Flexitarien,Non-binaire,Occitanie,False,True,False,44286,28,Toyota,Hybride,20,5260,Rural,Calme,False,True,Artisan,Yaris,29168,Jazz,True,False,True,True,Roman
+Client_313,2,769,Omnivore,Femme,Auvergne-Rhône-Alpes,True,False,False,85025,64,Toyota,Essence,48,42319,Rural,Calme,True,True,Commercial,Yaris,13737,Classique,True,True,False,True,Roman
+Client_314,3,850,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,True,79800,67,BMW,Diesel,19,41219,Rural,Excitante,True,False,Professeur,Clio,8366,Classique,True,False,True,False,Historique
+Client_315,3,441,Pescetarien,Homme,Nouvelle-Aquitaine,False,False,False,23502,44,Toyota,Essence,11,24352,Urbain,Calme,True,False,Ingénieur,Série 3,26048,Rock,False,True,True,False,Roman
+Client_316,4,733,Végétarien,Femme,Nouvelle-Aquitaine,True,True,False,73245,18,Renault,Diesel,40,19922,Urbain,Calme,True,False,Artisan,Golf,11672,Hip-hop,True,True,False,True,Historique
+Client_317,4,941,Végétalien,Femme,Auvergne-Rhône-Alpes,True,True,True,50016,62,Peugeot,Essence,27,40208,Autoroute,Calme,False,False,Ingénieur,Golf,24268,Pop,False,False,False,False,Historique
+Client_318,5,477,Flexitarien,Femme,Occitanie,True,True,True,20923,44,Volkswagen,Diesel,29,36219,Rural,Excitante,True,False,Professeur,Yaris,20487,Classique,True,False,False,True,Fantaisie
+Client_319,2,631,Omnivore,Femme,Auvergne-Rhône-Alpes,False,False,False,75706,20,Volkswagen,Essence,30,20595,Rural,Calme,True,True,Artisan,Yaris,5316,Classique,True,True,False,True,Roman
+Client_320,0,956,Végétarien,Femme,Occitanie,True,True,True,97503,38,Toyota,Diesel,20,39586,Rural,Calme,True,True,Artisan,Série 3,29947,Classique,False,False,False,False,Historique
+Client_321,3,759,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,False,True,36141,57,Peugeot,Diesel,45,38982,Urbain,Excitante,False,True,Commercial,Série 3,27795,Jazz,False,True,True,False,Thriller
+Client_322,2,911,Pescetarien,Non-binaire,Île-de-France,True,False,True,46496,42,Renault,Électrique,30,33889,Rural,Calme,False,False,Ingénieur,308,14741,Pop,True,True,True,False,Historique
+Client_323,2,658,Végétarien,Homme,Nouvelle-Aquitaine,True,False,False,71019,19,Toyota,Électrique,21,11817,Autoroute,Calme,True,True,Artisan,Yaris,5813,Jazz,False,True,True,False,Fantaisie
+Client_324,2,453,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,True,61962,20,Volkswagen,Électrique,15,21510,Urbain,Excitante,True,True,Professeur,Clio,23080,Rock,True,True,False,True,Thriller
+Client_325,0,320,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,True,86475,26,Volkswagen,Diesel,19,16798,Autoroute,Excitante,True,False,Commercial,Série 3,22290,Pop,False,True,True,True,Fantaisie
+Client_326,0,899,Végétarien,Homme,Île-de-France,False,False,True,23371,64,Renault,Essence,25,48861,Urbain,Calme,False,False,Commercial,Clio,10613,Jazz,False,False,False,True,Science-fiction
+Client_327,2,956,Végétarien,Femme,Occitanie,False,False,True,58065,22,Peugeot,Hybride,37,10094,Rural,Excitante,True,True,Artisan,Clio,29006,Jazz,False,True,False,True,Science-fiction
+Client_328,1,693,Végétarien,Femme,Provence-Alpes-Côte d'Azur,False,True,False,83626,46,BMW,Essence,38,19343,Autoroute,Excitante,True,True,Professeur,Série 3,25062,Jazz,False,True,False,True,Historique
+Client_329,3,849,Omnivore,Homme,Île-de-France,False,False,True,43565,43,Peugeot,Électrique,9,20939,Urbain,Calme,True,False,Médecin,Série 3,18979,Rock,False,True,False,False,Historique
+Client_330,0,806,Omnivore,Femme,Provence-Alpes-Côte d'Azur,True,False,True,94214,69,Toyota,Diesel,16,43267,Rural,Excitante,True,True,Artisan,308,8036,Pop,True,True,False,True,Thriller
+Client_331,5,799,Pescetarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,True,True,29364,59,Volkswagen,Hybride,37,36512,Rural,Excitante,True,False,Médecin,Série 3,15575,Classique,False,False,False,False,Historique
+Client_332,5,500,Végétalien,Homme,Provence-Alpes-Côte d'Azur,True,False,True,38890,31,Renault,Essence,11,42184,Rural,Excitante,False,True,Artisan,Série 3,12960,Hip-hop,True,True,True,False,Fantaisie
+Client_333,4,715,Végétarien,Non-binaire,Nouvelle-Aquitaine,True,True,True,59182,37,Volkswagen,Diesel,4,40629,Autoroute,Excitante,False,False,Médecin,308,27430,Classique,False,True,True,False,Thriller
+Client_334,2,678,Omnivore,Non-binaire,Auvergne-Rhône-Alpes,True,True,True,28509,30,Toyota,Électrique,12,30216,Autoroute,Excitante,False,True,Artisan,Série 3,7880,Classique,True,True,False,True,Science-fiction
+Client_335,1,977,Végétarien,Homme,Auvergne-Rhône-Alpes,True,False,False,48324,18,Volkswagen,Électrique,25,24754,Urbain,Excitante,True,True,Ingénieur,Série 3,28368,Hip-hop,True,True,True,True,Thriller
+Client_336,1,580,Flexitarien,Homme,Occitanie,True,False,True,82863,39,Volkswagen,Hybride,12,34937,Urbain,Excitante,True,False,Médecin,Clio,28266,Pop,True,False,True,True,Fantaisie
+Client_337,1,721,Pescetarien,Femme,Île-de-France,True,False,True,41808,69,Renault,Hybride,49,36068,Urbain,Excitante,True,True,Médecin,308,22111,Pop,True,False,False,True,Historique
+Client_338,3,714,Végétalien,Homme,Île-de-France,False,False,True,20399,48,Peugeot,Essence,8,34058,Rural,Excitante,True,False,Médecin,Série 3,16993,Hip-hop,True,False,False,False,Thriller
+Client_339,0,978,Végétalien,Femme,Occitanie,False,False,False,38695,58,Toyota,Hybride,46,17075,Rural,Excitante,False,True,Professeur,308,14135,Classique,False,True,False,False,Science-fiction
+Client_340,5,833,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,True,True,True,30904,28,Volkswagen,Hybride,20,9865,Rural,Calme,False,True,Artisan,308,29411,Rock,False,True,True,False,Fantaisie
+Client_341,4,747,Végétarien,Femme,Nouvelle-Aquitaine,False,True,True,94013,63,Renault,Diesel,15,7698,Rural,Calme,True,True,Médecin,Yaris,28577,Rock,False,False,True,False,Science-fiction
+Client_342,0,846,Flexitarien,Homme,Nouvelle-Aquitaine,True,False,False,41764,66,Renault,Électrique,36,44431,Autoroute,Calme,False,False,Professeur,Série 3,5013,Jazz,False,True,False,True,Thriller
+Client_343,0,338,Végétalien,Femme,Île-de-France,True,True,True,23996,45,Peugeot,Essence,13,37816,Rural,Calme,True,True,Médecin,Série 3,11045,Rock,False,True,False,True,Historique
+Client_344,3,651,Végétalien,Femme,Nouvelle-Aquitaine,False,True,True,72373,53,Renault,Diesel,50,37627,Urbain,Excitante,False,False,Ingénieur,308,27439,Hip-hop,True,True,True,False,Roman
+Client_345,5,335,Pescetarien,Non-binaire,Occitanie,True,False,True,44595,30,Toyota,Électrique,9,18186,Urbain,Calme,True,True,Professeur,Yaris,19347,Hip-hop,False,False,False,True,Historique
+Client_346,4,840,Flexitarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,47481,56,Volkswagen,Hybride,5,28021,Autoroute,Calme,True,False,Professeur,Yaris,13242,Pop,True,False,True,False,Fantaisie
+Client_347,4,963,Omnivore,Homme,Nouvelle-Aquitaine,False,True,False,58962,31,Toyota,Hybride,4,14726,Urbain,Excitante,True,True,Commercial,308,7798,Pop,True,False,False,False,Science-fiction
+Client_348,2,588,Omnivore,Non-binaire,Occitanie,True,True,True,36393,61,BMW,Diesel,7,20086,Rural,Calme,True,True,Artisan,308,26176,Hip-hop,False,False,True,True,Historique
+Client_349,0,918,Végétalien,Femme,Auvergne-Rhône-Alpes,True,False,True,91341,50,Toyota,Électrique,18,37516,Autoroute,Excitante,False,False,Médecin,Yaris,20920,Pop,False,True,False,True,Thriller
+Client_350,5,832,Végétalien,Femme,Provence-Alpes-Côte d'Azur,True,True,True,58436,25,BMW,Électrique,34,27699,Autoroute,Calme,False,True,Médecin,Série 3,8733,Jazz,True,False,True,False,Roman
+Client_351,5,787,Pescetarien,Non-binaire,Nouvelle-Aquitaine,True,False,True,65913,33,BMW,Diesel,10,30321,Rural,Calme,False,True,Commercial,Yaris,20041,Classique,True,True,False,True,Fantaisie
+Client_352,3,908,Végétarien,Femme,Provence-Alpes-Côte d'Azur,True,False,False,35975,20,Renault,Hybride,17,10362,Autoroute,Excitante,False,False,Ingénieur,Yaris,11544,Hip-hop,False,False,True,True,Roman
+Client_353,4,830,Pescetarien,Femme,Occitanie,False,True,False,56334,70,BMW,Hybride,21,39970,Urbain,Excitante,True,True,Commercial,Golf,28646,Classique,False,False,True,False,Historique
+Client_354,1,381,Végétalien,Non-binaire,Auvergne-Rhône-Alpes,False,False,True,47173,46,BMW,Essence,39,34960,Urbain,Calme,False,True,Professeur,Yaris,24596,Jazz,True,False,False,True,Roman
+Client_355,0,998,Végétarien,Femme,Occitanie,False,False,False,20488,18,Volkswagen,Hybride,6,12518,Autoroute,Calme,True,True,Médecin,Série 3,25387,Jazz,True,True,False,True,Historique
+Client_356,0,450,Pescetarien,Femme,Occitanie,True,True,True,46013,51,Peugeot,Hybride,42,38265,Autoroute,Excitante,False,True,Professeur,Golf,9554,Rock,False,False,True,False,Historique
+Client_357,3,692,Flexitarien,Femme,Provence-Alpes-Côte d'Azur,True,False,True,36298,52,Volkswagen,Hybride,6,41826,Urbain,Excitante,True,True,Professeur,Série 3,24356,Rock,False,False,True,True,Thriller
+Client_358,2,766,Végétalien,Homme,Occitanie,True,True,False,41214,53,Toyota,Diesel,2,20099,Rural,Calme,False,True,Artisan,Série 3,29930,Rock,False,False,True,False,Science-fiction
+Client_359,3,337,Omnivore,Homme,Île-de-France,False,False,False,78000,63,Volkswagen,Diesel,30,5442,Urbain,Excitante,False,False,Médecin,308,28378,Pop,True,False,False,True,Fantaisie
+Client_360,2,641,Pescetarien,Femme,Occitanie,False,True,True,53484,43,Toyota,Essence,50,26087,Rural,Excitante,True,False,Artisan,Série 3,15375,Jazz,False,True,False,True,Historique
+Client_361,5,968,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,False,True,65539,26,Renault,Essence,22,19846,Rural,Excitante,False,True,Ingénieur,Série 3,12401,Classique,True,True,True,False,Historique
+Client_362,0,894,Végétarien,Femme,Île-de-France,False,False,True,68265,55,Peugeot,Électrique,14,29698,Autoroute,Excitante,True,False,Médecin,308,28511,Rock,True,False,False,True,Fantaisie
+Client_363,3,898,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,False,True,45230,69,Volkswagen,Électrique,32,5250,Autoroute,Excitante,True,True,Ingénieur,Clio,16932,Jazz,True,False,True,True,Thriller
+Client_364,4,581,Pescetarien,Homme,Île-de-France,False,False,True,87680,64,Toyota,Diesel,2,28606,Urbain,Excitante,True,True,Artisan,Golf,27378,Pop,True,False,False,False,Fantaisie
+Client_365,1,534,Omnivore,Non-binaire,Île-de-France,True,False,False,55642,57,Volkswagen,Essence,17,22350,Urbain,Calme,False,False,Médecin,Golf,6008,Jazz,False,False,False,True,Roman
+Client_366,1,570,Végétalien,Non-binaire,Occitanie,False,False,False,20803,18,Renault,Essence,9,34269,Rural,Excitante,False,False,Professeur,Yaris,10972,Classique,True,True,False,True,Thriller
+Client_367,5,721,Omnivore,Femme,Nouvelle-Aquitaine,False,False,True,50161,52,Peugeot,Électrique,27,21241,Rural,Excitante,False,True,Médecin,308,28085,Classique,True,False,True,False,Roman
+Client_368,4,479,Végétarien,Non-binaire,Île-de-France,True,True,True,34884,22,BMW,Diesel,14,26978,Autoroute,Calme,True,True,Artisan,Golf,14236,Pop,True,False,False,True,Thriller
+Client_369,5,364,Végétarien,Non-binaire,Île-de-France,True,True,False,63940,56,Volkswagen,Hybride,16,37752,Urbain,Calme,False,True,Commercial,308,18245,Jazz,False,False,True,False,Roman
+Client_370,4,786,Pescetarien,Homme,Nouvelle-Aquitaine,False,False,True,55345,65,Renault,Hybride,23,43187,Rural,Calme,True,True,Professeur,308,19022,Hip-hop,True,True,True,True,Historique
+Client_371,0,426,Flexitarien,Non-binaire,Provence-Alpes-Côte d'Azur,True,False,False,73905,22,Renault,Hybride,20,43683,Autoroute,Calme,True,True,Artisan,Golf,29336,Pop,False,True,True,False,Thriller
+Client_372,4,936,Flexitarien,Femme,Île-de-France,False,True,True,78750,54,Toyota,Hybride,39,26388,Urbain,Excitante,True,True,Professeur,Série 3,5080,Classique,True,True,True,True,Thriller
+Client_373,5,592,Végétalien,Femme,Auvergne-Rhône-Alpes,False,False,True,98724,32,Renault,Électrique,43,47090,Autoroute,Excitante,False,True,Ingénieur,308,6109,Rock,True,False,True,True,Thriller
+Client_374,2,532,Végétalien,Femme,Nouvelle-Aquitaine,True,False,True,80208,47,Renault,Électrique,28,9226,Urbain,Excitante,True,False,Ingénieur,Clio,28261,Pop,True,True,True,True,Fantaisie
+Client_375,5,620,Végétalien,Homme,Occitanie,True,False,True,72248,62,Peugeot,Hybride,29,47969,Urbain,Excitante,False,True,Professeur,308,23398,Classique,True,False,True,True,Historique
+Client_376,0,696,Pescetarien,Homme,Auvergne-Rhône-Alpes,True,True,True,37876,70,Renault,Électrique,39,24124,Rural,Calme,True,False,Ingénieur,308,8399,Rock,True,True,True,False,Historique
+Client_377,0,453,Pescetarien,Femme,Occitanie,True,True,False,99540,70,BMW,Hybride,14,33508,Urbain,Calme,False,True,Commercial,Golf,24530,Jazz,False,False,False,True,Historique
+Client_378,0,645,Végétarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,True,False,67170,64,BMW,Essence,22,21290,Rural,Calme,False,False,Professeur,Golf,15296,Hip-hop,False,True,False,False,Science-fiction
+Client_379,0,939,Flexitarien,Femme,Île-de-France,True,True,False,64152,22,Peugeot,Électrique,46,42528,Autoroute,Calme,True,False,Artisan,Série 3,29103,Rock,True,False,False,False,Historique
+Client_380,3,572,Omnivore,Femme,Île-de-France,True,False,False,85433,36,Toyota,Diesel,13,35825,Rural,Calme,False,True,Professeur,Golf,26984,Rock,False,True,True,True,Roman
+Client_381,3,912,Végétarien,Non-binaire,Provence-Alpes-Côte d'Azur,False,False,True,46997,44,Toyota,Diesel,38,49693,Autoroute,Calme,False,False,Médecin,Clio,22189,Rock,True,False,False,False,Historique
+Client_382,0,818,Flexitarien,Non-binaire,Occitanie,False,True,False,61477,25,BMW,Hybride,36,40583,Autoroute,Excitante,True,False,Ingénieur,Série 3,16938,Hip-hop,True,True,False,True,Thriller
+Client_383,0,339,Végétarien,Femme,Occitanie,False,False,True,53320,30,BMW,Hybride,43,45728,Rural,Calme,True,False,Ingénieur,Yaris,29427,Pop,False,False,True,False,Roman
+Client_384,5,368,Flexitarien,Femme,Auvergne-Rhône-Alpes,False,False,False,20454,33,Volkswagen,Diesel,32,43968,Rural,Calme,False,True,Professeur,Série 3,21959,Rock,False,False,False,True,Science-fiction
+Client_385,5,821,Flexitarien,Femme,Auvergne-Rhône-Alpes,True,True,False,44828,18,Renault,Essence,34,38853,Rural,Excitante,True,False,Artisan,308,24648,Rock,True,False,True,False,Roman
+Client_386,3,857,Flexitarien,Non-binaire,Occitanie,True,True,True,65423,38,BMW,Hybride,49,6547,Autoroute,Excitante,True,True,Médecin,Série 3,8186,Jazz,False,False,False,False,Historique
+Client_387,1,389,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,False,True,True,49940,25,Volkswagen,Électrique,2,23689,Rural,Excitante,False,False,Commercial,308,19859,Pop,True,False,True,True,Roman
+Client_388,0,721,Végétarien,Non-binaire,Auvergne-Rhône-Alpes,True,True,False,62282,35,Peugeot,Hybride,9,32973,Urbain,Calme,False,False,Ingénieur,Golf,19375,Rock,True,False,False,True,Historique
+Client_389,1,740,Végétalien,Non-binaire,Occitanie,False,True,False,35350,48,Toyota,Essence,21,31632,Urbain,Calme,False,True,Professeur,308,9597,Jazz,True,True,True,True,Roman
+Client_390,5,454,Flexitarien,Non-binaire,Auvergne-Rhône-Alpes,True,False,True,38554,20,Toyota,Hybride,4,44347,Autoroute,Calme,True,False,Médecin,Yaris,21658,Pop,False,False,True,True,Roman
+Client_391,2,628,Végétarien,Femme,Occitanie,True,True,False,50532,59,BMW,Électrique,30,9348,Rural,Calme,False,False,Médecin,Série 3,18549,Jazz,False,False,False,False,Thriller
+Client_392,3,862,Omnivore,Femme,Occitanie,False,False,True,59769,25,Peugeot,Électrique,43,27215,Rural,Excitante,False,True,Artisan,Yaris,15744,Classique,True,False,True,False,Thriller
+Client_393,4,511,Pescetarien,Homme,Occitanie,True,True,True,36712,65,BMW,Diesel,15,20333,Autoroute,Excitante,False,True,Commercial,308,18134,Classique,False,False,False,True,Historique
+Client_394,4,573,Végétalien,Homme,Île-de-France,False,False,True,48697,61,BMW,Hybride,28,6676,Autoroute,Calme,True,True,Artisan,Yaris,22742,Hip-hop,False,False,False,False,Science-fiction
+Client_395,1,912,Flexitarien,Non-binaire,Auvergne-Rhône-Alpes,False,True,False,34500,65,Toyota,Hybride,48,23580,Urbain,Excitante,False,True,Professeur,Série 3,20528,Hip-hop,True,True,True,False,Roman
+Client_396,2,596,Végétalien,Femme,Nouvelle-Aquitaine,True,False,True,30194,22,BMW,Électrique,24,9977,Rural,Calme,True,False,Médecin,308,16763,Rock,False,False,False,False,Thriller
+Client_397,3,913,Pescetarien,Femme,Nouvelle-Aquitaine,False,True,False,33571,24,Renault,Hybride,4,49353,Rural,Excitante,False,False,Artisan,308,15680,Jazz,False,True,True,True,Thriller
+Client_398,1,754,Végétalien,Homme,Provence-Alpes-Côte d'Azur,True,True,False,86305,18,Peugeot,Diesel,24,44641,Rural,Excitante,True,False,Commercial,Golf,18008,Classique,False,True,False,False,Science-fiction
+Client_399,0,598,Omnivore,Non-binaire,Nouvelle-Aquitaine,False,False,False,59349,44,BMW,Électrique,18,13558,Urbain,Excitante,True,False,Ingénieur,Golf,16244,Jazz,True,True,True,True,Thriller
+Client_400,0,916,Omnivore,Homme,Provence-Alpes-Côte d'Azur,True,True,True,42187,31,BMW,Diesel,10,43230,Urbain,Calme,True,False,Médecin,Clio,8407,Rock,True,False,True,False,Science-fiction
