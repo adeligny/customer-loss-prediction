@@ -69,4 +69,4 @@ print(df)
 # Autre méthode pour afficher les premières lignes du jeu de données pour voir à quoi il ressemble
 print(df.head())
 
-df.to_csv('data\\resultats.csv', index=False)
+df.to_csv('resultats.csv', index=False)
