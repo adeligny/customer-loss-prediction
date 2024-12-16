@@ -21,7 +21,7 @@ import base64
 st.markdown("<h1 style='text-align: center'>🔮 Bienvenue dans la tente mystique de Madame Irma... </h1>", unsafe_allow_html=True)
 
 #affichage gif
-gifPath = "C:\\Users\\anais\\Downloads\\crystal.gif"
+gifPath = "C:\\Users\\anais\\Downloads\\loss prediction\\crystal.gif"
 file_ = open(gifPath, "rb")
 contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
